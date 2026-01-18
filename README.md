@@ -167,13 +167,7 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 4. Push para a Branch (`git push origin feature/NovaFeature`)
 5. Abra um Pull Request
 
----
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 ## 👨‍💻 Autor
 
